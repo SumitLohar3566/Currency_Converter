@@ -127,6 +127,7 @@ Export conversion history as CSV
 Support for cryptocurrency conversion
 
 📞 Contact
-Developer: Sumit Lohar
-GitHub:
-Email: your-email@example.com
+ Developer: Sumit Lohar
+ 📧 Email:sumitlohar063@gmail.com
+ 🐙 GitHub: https://github.com/YOUR-USERNAME
+ 🔗 LinkedIn:https://www.linkedin.com/feed/
