@@ -1,4 +1,4 @@
-# 💹 ForexPro - Real-Time Currency Converter
+# ForexPro - Real-Time Currency Converter
 
 **ForexPro** is a professional, real-time currency converter built with **Streamlit**.  
 It fetches **accurate exchange rates**, allows multiple currency conversions, maintains conversion history, and provides quick selections for popular currency groups.
@@ -18,7 +18,7 @@ It fetches **accurate exchange rates**, allows multiple currency conversions, ma
 
 ---
 
-## 🖼️ Project Preview
+##  Project Preview
 
 Below are screenshots of the **ForexPro Currency Converter** in action:
 
@@ -27,7 +27,7 @@ Below are screenshots of the **ForexPro Currency Converter** in action:
 <img width="1829" height="574" alt="Screenshot 2025-11-30 130044" src="https://github.com/user-attachments/assets/599b7fe9-2ab3-4f35-960b-a3efdd54bae6" />
 
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Python 3.11**
 - **Streamlit** for frontend and UI components
@@ -37,7 +37,7 @@ Below are screenshots of the **ForexPro Currency Converter** in action:
 - **HTML & CSS** for custom styling
 
 
-## 📦 Installation
+##  Installation
 
 1. Clone the repository:
 git clone <your-repo-link>
@@ -52,7 +52,7 @@ source venv/bin/activate
 Install dependencies:
 
 pip install -r requirements.txt
-🚀 How to Run
+- How to Run
 
 streamlit run app.py
 This will open the ForexPro Currency Converter in your default browser.
@@ -109,7 +109,7 @@ Conversion History: Stores recent conversions.
 
 Last Update: Timestamp of last fetched exchange rates.
 
-📁 File Structure
+- File Structure
 
 CurrencyConverter/
 │
@@ -126,4 +126,7 @@ Export conversion history as CSV
 
 Support for cryptocurrency conversion
 
-📞 Contact Developer: Sumit Lohar 📧 Email:sumitlohar063@gmail.com 🐙 GitHub: https://github.com/SumitLohar3566🔗 LinkedIn:(https://www.linkedin.com/in/sumit-lohar-498341317/)
+- Contact Developer: Sumit Lohar
+- Email:sumitlohar063@gmail.com
+- GitHub: https://github.com/SumitLohar3566
+- LinkedIn:(https://www.linkedin.com/in/sumit-lohar-498341317/)
