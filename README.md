@@ -27,7 +27,7 @@ Below are screenshots of the **ForexPro Currency Converter** in action:
 <img width="1829" height="574" alt="Screenshot 2025-11-30 130044" src="https://github.com/user-attachments/assets/599b7fe9-2ab3-4f35-960b-a3efdd54bae6" />
 
 
-##  Technologies Used
+##  Technologies Used:
 
 - **Python 3.11**
 - **Streamlit** for frontend and UI components
@@ -95,7 +95,7 @@ Currency Flags: Quick visual recognition of currencies.
 
 Responsive layout: Two-column conversion results and stats row.
 
-🔗 API
+# API:
 Data provided by ExchangeRate.host
 
 Real-time exchange rates update every 5 minutes.
